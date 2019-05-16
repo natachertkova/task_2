@@ -8,7 +8,7 @@ extends JFrame {
         this.initUI();
     }
 /**
-*A change in color and shape was made
+*A change in color and shape in figures was made 
 */
     private void initUI() {
         this.setTitle("\u041a\u0440\u0438\u0432\u044b\u0435 \u0444\u0438\u0433\u0443\u0440\u044b");
